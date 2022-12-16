@@ -1,0 +1,16 @@
+* {
+    background-color: tan;
+}
+
+.header {
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: larger;
+}
+
+#check {
+    background-color: lightgray; 
+    text-align: center;
+    }
